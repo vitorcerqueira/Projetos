@@ -1,0 +1,12 @@
+.instagram-link {
+  text-decoration: none;
+  color: #e4405f; /* Cor padrão do Instagram */
+  font-size: 20px; /* Tamanho da fonte do texto */
+  margin-right: 10px; /* Espaçamento à direita do ícone */
+}
+
+/* Estilo para o ícone do Instagram */
+.instagram-link i {
+  font-size: 24px; /* Tamanho do ícone */
+  vertical-align: middle; /* Alinhar verticalmente com o texto */
+}
